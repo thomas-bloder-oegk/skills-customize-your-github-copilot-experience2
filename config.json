@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "testing-python-functions-with-assertions",
+      "title": "Testing Python Functions with Assertions",
+      "description": "Write simple Python functions and verify them with built-in assert statements",
+      "path": "assignments/testing-python-functions-with-assertions",
+      "dueDate": "2026-07-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
